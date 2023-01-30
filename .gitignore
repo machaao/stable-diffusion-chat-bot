@@ -8,3 +8,4 @@ images
 src
 /models
 *.egg-info/
+.DS_Store
