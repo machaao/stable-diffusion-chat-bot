@@ -7,7 +7,7 @@ Generate FREE AI images on your laptop with this stable diffusion chatbot.
 * Windows / Mac / Linux with Git installed
 * Python 3.9+ 
 * Conda Environment (Python)
-* A FREE MessengerX.io Account
+* A FREE [MessengerX.io](https://portal.messengerx.io) Creator Account
 * Ngrok for Tunneling
 * Desktop / Laptop with a minimum of 12GB RAM 
 * GPU is required for faster inference (MPS on MAC M1 & CUDA is supported for Nvidia GPU)
