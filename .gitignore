@@ -1,0 +1,10 @@
+/env/
+__pycache__
+/.idea
+/outputs
+sd-v1-4.ckpt
+latest.zip
+images
+src
+/models
+*.egg-info/
